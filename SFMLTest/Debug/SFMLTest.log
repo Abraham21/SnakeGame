@@ -1,0 +1,9 @@
+﻿  SFMLTest.cpp
+c:\users\abeye\documents\spring 2018\cs 256\sfmltest\sfmltest\sfmltest.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abeye\documents\spring 2018\cs 256\sfmltest\sfmltest\sfmltest.cpp(134): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\abeye\documents\spring 2018\cs 256\sfmltest\sfmltest\sfmltest.cpp(160): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abeye\documents\spring 2018\cs 256\sfmltest\sfmltest\sfmltest.cpp(202): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\abeye\documents\spring 2018\cs 256\sfmltest\sfmltest\sfmltest.cpp(208): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\abeye\documents\spring 2018\cs 256\sfmltest\sfmltest\sfmltest.cpp(214): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\abeye\documents\spring 2018\cs 256\sfmltest\sfmltest\sfmltest.cpp(219): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFMLTest.vcxproj -> C:\Users\abeye\Documents\Spring 2018\CS 256\SFMLTest\Debug\SFMLTest.exe
